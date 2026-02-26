@@ -6,4 +6,4 @@ def test_add():
 
 def test_restar():
     calc = Calculadora()
-    assert calc.restar(5, 3) == 10
+    assert calc.restar(5, 3) == 2
